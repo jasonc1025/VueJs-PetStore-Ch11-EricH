@@ -1,7 +1,8 @@
 import { initializeApp } from 'firebase';
 
 const app = initializeApp({
-    // [jwc]+x from https://console.firebase.google.com/u/1/project/petstore-vuejs-erich/overview
+    // [jwc]+x 
+    // * from https://console.firebase.google.com/u/1/project/petstore-vuejs-erich/overview
     // apiKey: "",
     // authDomain: "",
     // databaseURL: "",
